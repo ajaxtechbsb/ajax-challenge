@@ -70,7 +70,6 @@ starting_date: 09/05/2016 às 10:00 h
 Please keep in mind that this challenge is a sprint, not a marathon. The real goal is to do as much and as as possible, but within the timeframe.
 
  
-![]({{site.baseurl}}/https://drive.google.com/file/d/0B-pE4Z0ocJVoOUwwSW8yUFFrRHM/view?usp=sharing)
-
+![]({{site.baseurl}}/https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=6e21665bcc&view=att&th=15daa6166a17ee15&attid=0.1&disp=safe&realattid=f_j5x26sok0&zw&saddbat=ANGjdJ-7v1w7Er5eq2QuGKhbhsfLfm5W6Se9JJ3t-Slxc7nM21Me-R5rz-cUGJeR__Rtg6ZJG2mUJz9aYMA0Tw73oTVYpqGjDQWhB1tr6qfDdjxofNuGKmj9iAb52Rs56JGBjVg05oRHf9Zw9iuJNBJA2sARcRx75F9sz4A-V0cD7nUprkzDT9RtfuAsmxc715EjiyE2LMrIXk0Siw6PhErrcZ6g4TIX5xIjVq8vNHHEsMJAhxjPSVhesPiLEABAG0-KadTeA0FYXIWSKCMRSXYcmtLLFlG9lvqKps7_GXvAd0j-yLx-ydFey-HV3keSJViaV6QzV6rXGu5oq6uRNiOW2e6vCBc1jnLr0AeCOe8wgjLAA0mjDILf9j9BUorQqjeEGDF9pRn3UAHoVIQ8L5bqmZ9t0KeI4n1vWLcbm0pf6txKxZaNaH_d0t6gyY3QwRAOv_B6sxTXRj84mpoR2cXz1zRxr-Wdfi1VEQ8gvXFu9vEjKAmN-jZVGZen5xTAqnyhSpwpfo0t4YW-ECLBnZtZvgoBcK2X4dyZwRHNNtH3eaWhD_CFLIJagmD3TG_VJkirWPrfaQv2ltpiX9_b2JFBnhcT0oR9gX-RVrXCmdfa5yVUX3SewehoezaC0Ic)
 Ajax Tech - Soluções Corporativas
 Email: camilo.fernandes@ajaxtech.online
