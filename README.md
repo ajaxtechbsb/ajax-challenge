@@ -73,4 +73,5 @@ Please keep in mind that this challenge is a sprint, not a marathon. The real go
 ![](https://github.com/ajaxtechbsb/processo-seletivo/blob/master/got%20(2).png?raw=true)
 
 Ajax Tech - Soluções Corporativas
+
 Email: camilo.fernandes@ajaxtech.online
