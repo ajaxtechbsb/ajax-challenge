@@ -1,4 +1,3 @@
-
 ## Hey, stranger!
 
 
@@ -32,9 +31,9 @@ CNPQ - http://www.cnpq.br/web/guest/licitacoes
 
 SSP-DF http://licitacoes.ssp.df.gov.br./index.php/licitacoes
 
-C MARA LEGISLATIVA DO DISTRITO FEDERAL http://www.cl.df.gov.br/pt_PT/pregoes
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL http://www.cl.df.gov.br/pt_PT/pregoes
 
-C MARA DOS DEPUTADOS http://www2.camara.leg.br/transparencia/licitacoes/editais
+CÂMARA DOS DEPUTADOS http://www2.camara.leg.br/transparencia/licitacoes/editais
 
 ...and extract the biddings (licitações):
 
