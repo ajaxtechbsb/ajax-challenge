@@ -13,12 +13,19 @@ Our recommendations:
 -Be delivered as a github.com public project named as ajax-challenge until next friday (11 of august, 2017) 6pm. Also send us an email with your github account and the project URL (That's important!), the email address is down below.
  
 The challenge is to crawl data from one or more of these links...
+
 SEBRAE - http://www.sebrae.com.br/canaldofornecedor
+
 GDF - https://www.compras.df.gov.br/publico/em_andamento.asp
+
 CNPQ - http://www.cnpq.br/web/guest/licitacoes
+
 SSP-DF http://licitacoes.ssp.df.gov.br./index.php/licitacoes
+
 C MARA LEGISLATIVA DO DISTRITO FEDERAL http://www.cl.df.gov.br/pt_PT/pregoes
+
 C MARA DOS DEPUTADOS http://www2.camara.leg.br/transparencia/licitacoes/editais
+
 ...and extract the biddings (licitações):
  
 Example of an extracted data (do not be limited by it! These information were extracted manually without further details):
