@@ -1,72 +1,43 @@
 ## Hey, stranger!  
- 
+
 So... First of all, thank you for your time and welcome to the Ajax Tech Internship challenge,  and without further ado, let's get to it!
 
 Starting our process, we have a short challenge. It should be somehow easy to make.
- 
+
 Our recommendations:
--Create a README.md file containing all important information to understand and run the code
+- Create a README.md file containing all important information to understand and run the code
 
--Laravel 5.4
+- Laravel 5.4
 
--MariaDB or MongoDB if you choose to use a database
+- MariaDB or MongoDB if you choose to use a database
 
--Any PHP public module should be managed via composer
+- Any PHP public module should be managed via composer
 
--It can have a GUI, but a CLI is enough if you choose so, anyway we need a README to avoid wasting time
+- Should be created as API, with all methods http.
 
--Be delivered as a github.com public project named as ajax-challenge until next friday (11 of august, 2017) 6pm. Also send us an email with your github account and the project URL (That's important!), the email address is down below.
- 
-The challenge is to crawl data from one or more of these links...
+The challenge is to create an ATM (cash machine) system.
 
-SEBRAE - http://www.sebrae.com.br/canaldofornecedor
+But it's not that easy. You should follow the rules below.
 
-GDF - https://www.compras.df.gov.br/publico/em_andamento.asp
+1. Only the following cells must be removed: 2, 5, 10, 20, 50 and 100.
 
-CNPQ - http://www.cnpq.br/web/guest/licitacoes
+2. You must remove as few cells as possible
 
-SSP-DF http://licitacoes.ssp.df.gov.br./index.php/licitacoes
+3. This routes should be created to this operations:
 
-C MARA LEGISLATIVA DO DISTRITO FEDERAL http://www.cl.df.gov.br/pt_PT/pregoes
+'GET': Verify balance
 
-C MARA DOS DEPUTADOS http://www2.camara.leg.br/transparencia/licitacoes/editais
+'POST': Transfer money
 
-...and extract the biddings (licitações):
- 
-Example of an extracted data (do not be limited by it! These information were extracted manually without further details):
+'PUT': Deposit money
 
-Name: Concorrência - 007/2016 - MG
+'DELETE': To withdraw money
 
-Origin: SEBRAE
+4. Upload app on Github and Heroku, send urls to camilo.fernandes@ajaxtech.online
 
-Attachments:
+Obs: Any futher doubt about the info above an issue can be created on this git repo.
 
-Name: Instrumento Convocatório
-
-File: storage/files/sebrae/902595f6721de8c52dc924539eab5333feff697.pdf
-
-Name: Anexo IA - Marca SEBRAE
-
-File: storage/files/sebrae/210059c5abe126a582534e42aa7327603cffd513.pdf
-
-Name: Anexo IA - Marca SEBRAE
-
-File: storage/files/sebrae/c95dd50e4f1622c8638db6819b010bc1127dadce.pdf
-
-Name: Anexo IA - Marca SEBRAE
-
-File: storage/files/sebrae/582dcf05ee2d4fc4da33f3cde5a8172e66d23f0e.pdf
-
-object: Contratação de Agência de Propaganda, especializada, em regime de não exclusividade, para prestação de serviços de publicidade para o SEBRAE-MG
-
-starting_date: 09/05/2016 às 10:00 h
-
-Please keep in mind that this challenge is a sprint, not a marathon. The real goal is to do as much and as as possible, but within the timeframe.
-
-
-
-
-![](https://github.com/ajaxtechbsb/processo-seletivo/blob/master/got%20(2).png?raw=true)
+![](https://github.com/ajaxtechbsb/processo-seletivo/blob/master/yoda-challenger.png?raw=true)
 
 Ajax Tech - Soluções Corporativas
 
