@@ -37,6 +37,7 @@ But it's not that easy. You should follow the rules below.
 
 Obs: Any futher doubt about the info above an issue can be created on this git repo.
 
+[More Instructions](https://brorlandi.github.io/StarWarsIntroCreator/#!/AL-8NTx0L__t08RENU-z)
 ![](https://github.com/ajaxtechbsb/processo-seletivo/blob/master/yoda-challenger.png?raw=true)
 
 Ajax Tech - Soluções Corporativas
